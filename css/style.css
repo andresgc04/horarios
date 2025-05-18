@@ -1,0 +1,11 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.sinBorder {
+  border-top: none !important;
+  border-bottom: none !important;
+}
